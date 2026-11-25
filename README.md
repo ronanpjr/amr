@@ -70,6 +70,11 @@ python plot_speedup.py
 ```
 Outputs and final mesh configurations are routinely saved to `figures/` and `results/` respectively. The program supports plotting refined quads out into interactive `.svg` layouts.
 
+## 👥 Contributors
+
+- [@ronanpjr](https://github.com/ronanpjr) — Ronan Pereira
+- [@nikbott](https://github.com/nikbott) — Vinicius Kury
+
 ## 📝 License & Contact
 
 This project is part of ongoing academic work in High-Performance Computing (HPC) research. Please refer to associated documentation or contact the authors if utilizing models for your own related research architectures.
